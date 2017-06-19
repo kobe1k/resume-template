@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Kobe I. Calhoun
-resume_title:                   "Nuclear Safety Inspector"
+resume_title:                   "GitHub Scholar"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+  "kcalhoun926@gmail.com"
+resume_header_contact_info: "Atlanta, Georgia | (404)375-5790 | kcalhoun926@gmail.com"
+resume_header_intro: "<p>This is the executive summary. You should be able to find that i'm a leader and not a follower.I'm also a hardworking person that likes to learns new things every day.I also like to help on my on time if you need me to.  "
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -26,9 +26,9 @@ resume_looking_for_work:        "yes"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-resume_section_education:       true
+resume_section_education:       Class of 2020
 resume_section_projects:        true
-resume_section_skills:          true
+resume_section_skills:          Some skill sets that I have is being a leader and hardworking.
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
@@ -36,13 +36,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_github_url:            "https://github.com/Kobe Calhoun/resume-template"
+  resume_twitter_url:           "http://twitter.com/Thatboy_kobe"
   resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  # resume_instagram_url:         "k.loading1"
+  resume_website_url:           "http://Kobe.github.io/resume-template.com
 resume_print_social_links:      true
 
 # Design settings
